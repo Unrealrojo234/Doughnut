@@ -16,7 +16,7 @@ sudo apt install gcc
 <li>Clone this repo locally using git</li>
 
 ```bash
-git clone ""
+git clone "https://github.com/Unrealrojo234/Doughnut"
 
 ```
 
@@ -34,5 +34,8 @@ chmod u+x ./Doughnut #Gives persion to current user for running the executable
 ```
 
 ### Results
+
+![Screenshot from 2024-11-14 13-30-08](https://github.com/user-attachments/assets/3946f832-d52e-4ea4-aaa5-07f21b17e266)
+
 
 <p>Happy coding!</p>
